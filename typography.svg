@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000"><rect width="1600" height="1000" fill="#FCF8EC"/>
+<text x="100" y="120" font-family="Inter" font-weight="600" font-size="13" letter-spacing="3" fill="#C68A8E">DISPLAY · CINZEL</text>
+<text x="100" y="210" font-family="Cinzel" font-weight="500" font-size="84" letter-spacing="4" fill="#3A2A2A">PETALS &amp; PURPOSE</text>
+<text x="100" y="270" font-family="Cinzel" font-size="34" letter-spacing="8" fill="rgba(58,42,42,.75)">A B C D E F G H I J K L M</text>
+<line x1="100" y1="330" x2="1500" y2="330" stroke="rgba(219,165,168,.5)" stroke-width="1"/>
+<text x="100" y="400" font-family="Inter" font-weight="600" font-size="13" letter-spacing="3" fill="#C68A8E">SECONDARY ITALIC · CORMORANT GARAMOND ITALIC</text>
+<text x="100" y="480" font-family="Cormorant Garamond" font-style="italic" font-size="60" fill="#DBA5A8">Flowers with heart, in every season.</text>
+<text x="100" y="535" font-family="Cormorant Garamond" font-style="italic" font-size="30" fill="rgba(198,138,142,.85)">a b c d e f g h i j k l m &amp; Aa Bb Cc</text>
+<line x1="100" y1="600" x2="1500" y2="600" stroke="rgba(219,165,168,.5)" stroke-width="1"/>
+<text x="100" y="670" font-family="Inter" font-weight="600" font-size="13" letter-spacing="3" fill="#C68A8E">SUPPORTING · INTER</text>
+<text x="100" y="745" font-family="Inter" font-weight="500" font-size="46" fill="#3A2A2A">Aa Bb Cc 1234567890</text>
+<text x="100" y="800" font-family="Inter" font-size="22" fill="rgba(58,42,42,.8)">The quick brown fox jumps over the lazy dog. Body copy, UI, captions.</text>
+<text x="100" y="845" font-family="Inter" font-weight="600" font-size="14" letter-spacing="4" fill="rgba(58,42,42,.6)">FLOWERS WITH HEART · PURPOSE IN EVERY PETAL</text>
+<text x="100" y="930" font-family="Inter" font-size="15" fill="rgba(58,42,42,.55)">All three are free via Google Fonts.</text>
+</svg>
